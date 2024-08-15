@@ -6,12 +6,13 @@
 * [Github](https://github.com/dujiaxin/CIS161-F24-GVSU) -- also [FAQ about Github](github-discussion-faq.md)
 * [PrairieLearn](https://us.prairielearn.com/pl/course_instance/158155/) - log-in
   using "Google" and use your GVSU gmail account
+* [The "official" python tutorial](https://docs.python.org/3/tutorial/index.html)
 * [Python for Applied Computing Github by Professor Erin Carrier](https://github.com/dujiaxin/python-for-applied-computing)
+
 
 ## Need Help?
 
-If you have questions, please ask!  Office hours are open time for students
-to get help -- please join if you have questions.
+If you have questions, please ask!  Please see [Syllabus](syllabus.md) for contacting method.
 
 ### Course Schedule
 

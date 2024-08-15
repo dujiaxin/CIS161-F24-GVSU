@@ -6,14 +6,14 @@ Instructor: Jiaxin Du
 Office:  D-2-240 MAK
 
 Office Hours: 
-  * Mondays 11:00am - 12:00pm
-  * Wednesdays 11:00am - 12:00pm
-  * Fridays 9:00am - 9:55am
+  * Mondays 10:00am - 11:00pm
+  * Wednesdays 10:00am - 11:00pm
+  * Fridays 10:00am - 11:00am
 
 Contact:
 
 * [Github discussion](https://github.com/dujiaxin/CIS161-F24-GVSU/discussions) **preferred**
-* [dujia@gvsu.edu](mailto:dujia@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Github Issues to post your questions
+* [dujia@gvsu.edu](mailto:dujia@gvsu.edu?subject=[CIS161]) ^^^in almost all cases use Github to post your questions
 
 ## Course Description
 Computational science is the field of study concerned with using computers to analyze, model, simulate, and solve problems in various mathematical and scientific disciplines.
@@ -24,8 +24,7 @@ Credits: 3
 
 
 ## Github
-We will be using Github Pages for **all class related communication**.
-Please read the [Creating Issue in Github](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) for more details.
+We will be using Github **all class related communication**.
 In particular, note that important announcements will be posted
 to Github and you are responsible for monitoring it and
 that **all questions and concerns**
@@ -37,10 +36,9 @@ answered there.
 No official textbook - the Jupyter notebooks are meant to replace a traditional textbook.
 If you prefer to run the Jupyter notebooks in the videos on Google CoLab,
 the "Run Online" links posted on
-[Python for Applied Computing Github by Prof. Carrier](https://github.com/eecarrier/python-for-applied-computing)
+[Python for Applied Computing Github](https://github.com/dujiaxin/python-for-applied-computing)
 will open them automatically in CoLab.
 
-Completely Optional (a decent book if you want to a separate resource to follow): *Introduction to Computation and Programming Using Python* by Guttag (2017)
 
 ## Course Objectives
 1. Introduce computer science:
@@ -219,7 +217,7 @@ For this course:
   well as be reported to the Office of Student Conduct and Conflict Resolution.
 
 #### FAQs:
-  * Can I use ChatGPT, Github Co-pilot, or similar AI/ML based technologies? *No, for in-class activities, labs, and exams. The work you submit must be your own, and all code should be written by you. Using AI tools in these contexts would be considered an academic integrity violation.Special case: For the course project, you are allowed to use AI tools but must take full responsibility for the AI-generated content.*
+  * Can I use ChatGPT, Github Co-pilot, or similar AI/ML based technologies? *No, for in-class activities, labs, and exams. The work you submit must be your own, and all code should be written by you. Using AI tools in these contexts would be considered an academic integrity violation.Special case: For the course project, you are encouraged to use AI tools but must take full responsibility for the AI-generated content.*
   * Can I seek help through sites like upwork? *No, this would generally be
     considered an academic integrity violation*
   * Can I have help from a tutor?  *You may seek help from a tutor, but the work
