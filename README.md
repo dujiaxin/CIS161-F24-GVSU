@@ -40,4 +40,4 @@ schedule are tentative and subject to change.
 |  13  | 11/18 - 11/22 | csv module, error in computational science, numpy wrap-up | | |
 |  14  | 11/25 - 11/29 | 11/25 for office hours then Thanksgiving Day recess | | |
 |  15  | 12/02 - 12/06 | scipy, applications | | |
-|  16  | 12/07 - 12/14 | finals week | Course Projects Due / Presentations Monday, Dec 07 | |
+|  16  | 12/07 - 12/14 | finals week | Course Projects Due / Presentations Monday, Dec 11 | |
